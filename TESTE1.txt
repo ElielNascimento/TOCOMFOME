@@ -11,7 +11,7 @@ OLA EU SOU O PEDRO
 <<<<<<< HEAD
 " adriano lindo "
 =======
-
+Thiaguera
 OLA MEU NOME É CAUÃ
 
 >>>>>>> 5c5a95d4aa4068841130949d1803465eb14a2cd1

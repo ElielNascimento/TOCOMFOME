@@ -1,32 +1,10 @@
 OLA MEU NOME É ELIEL
-<<<<<<< HEAD
-<<<<<<< HEAD
 OLA MEU NOME É MURILO
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 OLA MEU NOME É KAUÃ
-=======
->>>>>>> 15bc9866a3b957fd342973155e5ff9ae81ab7e6f
 olá meu nome é gabi
->>>>>>> dad75189859edd72324d1c4d4c22b716ae12f5af
-=======
-<<<<<<< HEAD
-
 ola meu nome é nathalia	
-=======
 OLA EU SOU O PEDRO
->>>>>>> 6b0977257ac0eb61b71509d73f88b8138a65794f
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 833782f3d8081c8be4502f2c910cae8b95e2a889
-=======
 " adriano lindo "
->>>>>>> 06f99a1c7694e42f202ff3c022576607c412b9d3
-=======
 Thiaguera
 OLA MEU NOME É CAUÃ
-
->>>>>>> 5c5a95d4aa4068841130949d1803465eb14a2cd1
->>>>>>> b8094ff3de097d2697f3aa8c9d8511ea2dc2c30c
+OLA MEU NOME É VITOR BILIATO

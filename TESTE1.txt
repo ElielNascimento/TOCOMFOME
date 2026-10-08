@@ -17,11 +17,16 @@ JHONATAN FFA
 =======
 <<<<<<< HEAD
 arthur mingroni
-
-
 Kalany
 
-=======
->>>>>>> b118b8642752a99035280c4fca9bd11aaf1af021
->>>>>>> b42591d373f494b2ae1b35dd1ff354ae9633d4f0
->>>>>>> 644f00d3dd426960669485065e62b90881c6ea97
+
+responda com seu nome e ra, qual a resposta:
+
+for( int x = 1; x < 5; x++{
+
+ printf("%d", x);
+
+}
+
+
+

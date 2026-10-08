@@ -1,2 +1,21 @@
 OLA MEU NOME É ELIEL
+<<<<<<< HEAD
 OLA MEU NOME É MURILO
+=======
+<<<<<<< HEAD
+olá meu nome é gabi
+=======
+<<<<<<< HEAD
+
+ola meu nome é nathalia	
+=======
+OLA EU SOU O PEDRO
+>>>>>>> 6b0977257ac0eb61b71509d73f88b8138a65794f
+<<<<<<< HEAD
+" adriano lindo "
+=======
+Thiaguera
+OLA MEU NOME É CAUÃ
+
+>>>>>>> 5c5a95d4aa4068841130949d1803465eb14a2cd1
+>>>>>>> b8094ff3de097d2697f3aa8c9d8511ea2dc2c30c

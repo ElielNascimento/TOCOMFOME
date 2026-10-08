@@ -17,7 +17,7 @@ Kalany
 
 responda com seu nome e ra, qual a resposta:
 
-for( int x = 1; x < 5; x++{
+for( int x = 1; x < 5; x++){
 
  printf("%d", x);
 
@@ -25,5 +25,9 @@ for( int x = 1; x < 5; x++{
 
 vitor biliato ra 26011295-2
 resposta: erro: parenteses não fechado
+1
+2
+3
+4
 
 

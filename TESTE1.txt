@@ -1,6 +1,10 @@
 OLA MEU NOME É ELIEL
 <<<<<<< HEAD
+<<<<<<< HEAD
 OLA MEU NOME É KAUÃ
+=======
+olá meu nome é gabi
+>>>>>>> dad75189859edd72324d1c4d4c22b716ae12f5af
 =======
 <<<<<<< HEAD
 

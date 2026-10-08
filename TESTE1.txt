@@ -29,4 +29,4 @@ for( int x = 1; x < 5; x++{
 }
 
 Kauã garcia miranda 26011731-2: 1,2,3,4????
-
+Thiago Vinicius Caldeira Lopes RA 26013297-2 resp:  4 

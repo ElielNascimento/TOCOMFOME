@@ -9,4 +9,13 @@ Thiaguera
 OLA MEU NOME É CAUÃ
 MEU NOME E CORINTHIANS AUUUUUUUUUUUUUUUU - VITOR NUNES
 OLA MEU NOME É VITOR BILIATO
+<<<<<<< HEAD
 JHONATAN FFA
+=======
+<<<<<<< HEAD
+arthur mingroni
+
+
+=======
+>>>>>>> b118b8642752a99035280c4fca9bd11aaf1af021
+>>>>>>> b42591d373f494b2ae1b35dd1ff354ae9633d4f0

@@ -1,5 +1,8 @@
 OLA MEU NOME É ELIEL
 <<<<<<< HEAD
+olá meu nome é gabi
+=======
+<<<<<<< HEAD
 
 ola meu nome é nathalia	
 =======

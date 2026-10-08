@@ -13,7 +13,11 @@ ola meu nome é nathalia
 OLA EU SOU O PEDRO
 >>>>>>> 6b0977257ac0eb61b71509d73f88b8138a65794f
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 833782f3d8081c8be4502f2c910cae8b95e2a889
+=======
+" adriano lindo "
+>>>>>>> 06f99a1c7694e42f202ff3c022576607c412b9d3
 =======
 
 OLA MEU NOME É CAUÃ

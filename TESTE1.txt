@@ -1,2 +1,14 @@
 OLA MEU NOME É ELIEL
+<<<<<<< HEAD
 olá meu nome é gabi
+=======
+<<<<<<< HEAD
+
+ola meu nome é nathalia	
+=======
+OLA EU SOU O PEDRO
+>>>>>>> 6b0977257ac0eb61b71509d73f88b8138a65794f
+
+OLA MEU NOME É CAUÃ
+
+>>>>>>> 5c5a95d4aa4068841130949d1803465eb14a2cd1

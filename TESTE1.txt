@@ -9,24 +9,25 @@ Thiaguera
 OLA MEU NOME É CAUÃ
 MEU NOME E CORINTHIANS AUUUUUUUUUUUUUUUU - VITOR NUNES
 OLA MEU NOME É VITOR BILIATO
-<<<<<<< HEAD
 OLA MEU NOME É ADRIEL
-=======
-<<<<<<< HEAD
 JHONATAN FFA
-=======
-<<<<<<< HEAD
 arthur mingroni
 Kalany
 
 
 responda com seu nome e ra, qual a resposta:
 
-for( int x = 1; x < 5; x++{
+for( int x = 1; x < 5; x++){
 
  printf("%d", x);
 
 }
 
+vitor biliato ra 26011295-2
+resposta: erro: parenteses não fechado
+1
+2
+3
+4
 
 adriano ra 26013080-2  1234

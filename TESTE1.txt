@@ -35,4 +35,9 @@ numero 44444444444444444444444444444444
 
 
 
+<<<<<<< HEAD
+
+gabi 15/10/2026 dinovoooS
+=======
 ADRIANO É DEMAIS !
+>>>>>>> e35bf1c00dd495456b349baac1f9efa30006268a

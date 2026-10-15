@@ -1,18 +1,23 @@
 #include<stdio.h>
 
-
+int x;
 int main (){
 	
 	// informar 3 vezes for
 	
-	printf("");
-	scanf("%d");
+	for (x; x < 3; x++){
+		
+	printf("\nResultado:");
+	printf("boa noite");
+
 	
-	printf("");
-	scanf("%d");
+	
+
+	}
 	
 	
-	printf("Resultado :") ;
+	
+	
 	
 	return 0;  
 }

@@ -5,6 +5,7 @@ olá meu nome é gabi
 ola meu nome é nathalia	
 OLA EU SOU O PEDRO
 " adriano lindo "
+alessandraaa
 Thiaguera
 OLA MEU NOME É CAUÃ
 MEU NOME E CORINTHIANS AUUUUUUUUUUUUUUUU - VITOR NUNES
@@ -31,3 +32,12 @@ for( int x = 1; x < 5; x++{
 Kauã garcia miranda 26011731-2: 1,2,3,4????
 Thiago Vinicius Caldeira Lopes RA 26013297-2 resp:  4 
 numero 44444444444444444444444444444444
+
+
+
+<<<<<<< HEAD
+
+gabi 15/10/2026 dinovoooS
+=======
+ADRIANO É DEMAIS !
+>>>>>>> e35bf1c00dd495456b349baac1f9efa30006268a

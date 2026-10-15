@@ -1,18 +1,16 @@
-#include<stdio.h>
+#include <stdio.h>
 
+int main() {
+    char mensagem[100];
+    int i;
 
-int main (){
-	
-	// informar 3 vezes for
-	
-	printf("");
-	scanf("%d");
-	
-	printf("");
-	scanf("%d");
-	
-	
-	printf("Resultado :") ;
-	
-	return 0;  
+    // Informar mensagem 3 vezes
+    for (i = 1; i <= 3; i++) {
+        printf("Digite uma mensagem: ");
+        scanf(" %99[^\n]", mensagem);
+    }
+
+    printf("Resultado: %s\n", mensagem);
+
+    return 0;
 }
